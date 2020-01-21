@@ -3,4 +3,4 @@
 
 ## Diagrama de Classes
 
-<img src="diagrama_uml/diagrama de classes.png" width="1213" height="750" align="right">
+<img src="diagrama_uml/diagrama de classes.png" width="1213" height="700" align="right">
