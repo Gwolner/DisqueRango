@@ -1,4 +1,4 @@
-# Disque Rango <img src="img/mysql.png" width="80" height="40" align="right">
+# Disque Rango <img src="logo/mysql.png" width="80" height="40" align="right">
 
 A empresa de entrega de refeições a domicílio Disque-Rango deseja um sistema de informação para melhor atender seus clientes. 
 
