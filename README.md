@@ -13,3 +13,5 @@ De um pedido deseja-se saber os itens pedidos, a data, o entregador, o cliente e
 ## Diagrama de Classes
 
 <img src="diagrama_uml/diagrama de classes.png" width="1213" height="700" align="right">
+
+## Modelo Relacional
