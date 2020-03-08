@@ -10,8 +10,7 @@ Uma vez que um pedido é feito, ele é considerado pendente até que seja passad
 
 De um pedido deseja-se saber os itens pedidos, a data, o entregador, o cliente e, caso tenha sido pago em cheque, o número do cheque, conta, agência e banco. De um entregador deseja-se saber nome e placa de seu veículo.
 
-## Diagrama de Classes
-
-<img src="diagrama_uml/diagrama de classes.png" width="1213" height="700" align="right">
 
 ## Modelo Relacional
+
+<img src="modelo_relacional/mr.png" align="right">
