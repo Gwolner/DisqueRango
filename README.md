@@ -13,4 +13,4 @@ De um pedido deseja-se saber os itens pedidos, a data, o entregador, o cliente e
 
 ## Modelo Relacional
 
-<img src="modelo_relacional/mr.png" align="right">
+<img src="modelo_relacional/mr_disque_rango.png" align="right">
