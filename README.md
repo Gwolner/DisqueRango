@@ -1,6 +1,6 @@
 # Disque Rango <img src="logo/mysql.png" width="80" height="40" align="right">
 
-Banco de dados desenvolvido na disciplina de Análise e Projeto de Sistemas para uma empresa fictícia de delivery Disque Rango.
+Banco de dados desenvolvido na disciplina de Análise e Projeto de Sistemas para a empresa fictícia de delivery Disque Rango.
 
 ## Regra de negócio
 
